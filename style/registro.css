@@ -34,6 +34,11 @@ form{
  .form-label{
     font-weight: 800 !important;
  }
+
+ #formulario-pago {
+    max-width: 400px; /* Cambia el valor según tu preferencia */
+    margin: 0 auto; /* Centro del formulario */
+}
 @media only screen and (max-width: 600px) {
     form {
         width: 100% !important;
